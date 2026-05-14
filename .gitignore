@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data
+data/
+*.zip
+*.7z
+
+# Outputs
+outputs/
+runs/
+
+# IDE
+.vscode/
+.DS_Store
+
+# models
+*.pt

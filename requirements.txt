@@ -1,0 +1,8 @@
+numpy
+opencv-python
+matplotlib
+open3d
+scipy
+tqdm
+pyyaml
+ultralytics
